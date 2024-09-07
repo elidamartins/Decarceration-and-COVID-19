@@ -1,1 +1,2 @@
 Este repositório contem o modelo utilizado na Tese de Doutorado de Élida Lúcia Carvalho Martins, intitulada: Desencarceramento e COVID-19: uma avaliação econômica, vinculada à Pós Graduação Strictu Sensu em Saúde Pública, da Escola Nacional de Saúde Pública, da Fundação Oswaldo Cruz (Fiocruz), Rio de Janeiro.
+![image](https://github.com/user-attachments/assets/f3101cb9-ded8-407c-8fc7-c456c1cd0ca6)
