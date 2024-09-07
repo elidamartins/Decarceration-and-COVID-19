@@ -1,0 +1,14 @@
+Instale o Julia no computador através do link: https://julialang.org/downloads/
+A versão utilizada para o desenvolvimento deste modelo foi a versão v1.10.4, em 2024-06-04T20:51:28Z e pode encontrada aqui: https://julialang.org/downloads/oldreleases/
+Após a instalação, copie o caminho do programa e cole em exectua_codigo atualizando o caminho que já está no arquivo entre aspas. 
+Para isso, abra o arquivo executa_codigo no bloco de notas e substitua o caminho "C:\Users\elida\AppData\Local\Programs\Julia-1.10.4\bin\julia.exe" pelo caminho de Julia no seu computador. 
+Salve. 
+No arquivo de nome "rodar,jl" você pode alterar o parâmetro "n_vezes", que define o número de vezes que uma simulação irá se repetir. 
+Faça adaptação que desejar e salve na mesma pasta de executa_codigo.
+No arquivo simulacao_presidio48.jl há os campos para entradas de custo de cada estado de transição e pode ser alterado. 
+Após a alteração, salve na mesma pasta que os outros dois arquivos.
+Os arquivos parametros_cenario1, parametros_cenario2, parametros_cenario3 são usados para modificar os valores das parâmetros epidemiológicos do modelo. 
+Salve-os na mesma pasta dos demais arquivos.
+Para executar a simulação, clique duas vezes no arquivo executa_codigo.
+Confira se o arquivo executa_codigo foi salvo como arquivo em lotes.
+Confira se os arquivos simulacao_presidio48.jl e rodar.jl foram salvos com a extensão ".jl".
